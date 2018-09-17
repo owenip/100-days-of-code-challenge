@@ -14,4 +14,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Thoughts:** Using Angular CLI is a much faster way to add new component.   
 **Link to Work:** N/A (Only add a new component to a demo project. Not worth to create a repo to upload)
 
+### Day 3: September 16, 2018 
+**Today's Progress:** studied about data binding in Angular6.
+**Link to Work:** N/A (Only add a new component to a demo project. Not worth to create a repo to upload)
+
 
