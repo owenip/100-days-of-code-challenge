@@ -18,4 +18,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** studied about data binding in Angular6.   
 **Link to Work:** N/A (Only add a new component to a demo project. Not worth to create a repo to upload)
 
-
+### Day 4: September 18, 2018 
+**Today's Progress:** Tried to create facebook-style button and 3D buttons with pure CSS3.    
+**Thoughts:** next objective will be CSS animation.
+**Link to Work:** [Link](https://github.com/owenip/CSS3-sandbox/commit/21f8a38080a8c4f1c1d75d2fdfaa2f4ef40447dc)
