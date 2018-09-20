@@ -26,3 +26,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 ### Day 5: September 19, 2018 
 **Today's Progress:** Learnt how to create facebook style button and 3D button-1      
 **Link to Work:** [Link](https://github.com/owenip/CSS3-sandbox/commit/fa52dfceb61ffa26568a00101c22b08c94676a26)
+
+### Day 6: September 20, 2018 
+**Today's Progress:** Learnt how to create 3D button-2    
+**Thoughts:** The trick of using `box-shadow` to create a 3D button with click(active) animation is very handy.   
+**Link to Work:** [Link](https://github.com/owenip/CSS3-sandbox/commit/3b79a74c45f25e7cbfa02ac4d62fd2de305fabff)
