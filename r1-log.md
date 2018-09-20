@@ -22,3 +22,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** Tried to create facebook-style button and 3D buttons with pure CSS3.    
 **Thoughts:** next objective will be CSS animation.   
 **Link to Work:** [Link](https://github.com/owenip/CSS3-sandbox/commit/21f8a38080a8c4f1c1d75d2fdfaa2f4ef40447dc)
+
+### Day 5: September 19, 2018 
+**Today's Progress:** Learnt how to create facebook style button and 3D button-1      
+**Link to Work:** [Link](https://github.com/owenip/CSS3-sandbox/commit/fa52dfceb61ffa26568a00101c22b08c94676a26)
