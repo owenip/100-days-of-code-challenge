@@ -31,3 +31,10 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** Learnt how to create 3D button-2    
 **Thoughts:** The trick of using `box-shadow` to create a 3D button with click(active) animation is very handy.   
 **Link to Work:** [Link](https://github.com/owenip/CSS3-sandbox/commit/3b79a74c45f25e7cbfa02ac4d62fd2de305fabff)
+
+### Day 7 - 9: September 21 - 23, 2018 
+**Today's Progress:** Participated in Elvate Hackathon
+**Thoughts:** Learnt a lot on different aspects such as idtentying the problem that we were trying to solove, communication with others and finding the suitable technologies, platform and approaches.     
+**Link to Work:** N/A
+
+
