@@ -37,4 +37,9 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Thoughts:** Learnt a lot on different aspects such as idtentying the problem that we were trying to solove, communication with others and finding the suitable technologies, platform and approaches.     
 **Link to Work:** N/A
 
+### Day 10: October 1, 2018 
+**Today's Progress:** Day 1 Challenge at Lighthouse Lab's 21days codes challenge    
+**Thoughts:** Sometimes the solution is just very simple. Stop overthinking it.     
+**Link to Work:** [Link to the challenge](https://coding-challenge.lighthouselabs.ca/start)
+
 
