@@ -42,4 +42,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Thoughts:** Sometimes the solution is just very simple. Stop overthinking it.     
 **Link to Work:** [Link to the challenge](https://coding-challenge.lighthouselabs.ca/start)
 
+### Day 11: October 2, 2018 
+**Today's Progress:** Day 2 Challenge at Lighthouse Lab's 21days codes challenge    
+**Link to Work:** [Link to the challenge](https://coding-challenge.lighthouselabs.ca/start)
 
