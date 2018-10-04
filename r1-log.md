@@ -46,3 +46,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** Day 2 Challenge at Lighthouse Lab's 21days codes challenge    
 **Link to Work:** [Link to the challenge](https://coding-challenge.lighthouselabs.ca/start)
 
+### Day 12: October 3, 2018 
+**Today's Progress:** Day 3 Challenge from LHL21DCC.
+**Link to Work:** [Link to the challenge](https://coding-challenge.lighthouselabs.ca/start)
+
