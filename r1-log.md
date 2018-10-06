@@ -53,3 +53,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 ### Day 13: October 4, 2018 
 **Today's Progress:** Day 4 Challenge from LHL21DCC. Finished FreeCodeCamp Responsive Web Design Certification. Finished all 71 challenges in Basic HTML and HTML5, Basic CSS.     
 **Link to Work:** [Link to the challenge](https://coding-challenge.lighthouselabs.ca/start)
+
+### Day 14: October 5, 2018 
+**Today's Progress:** Day 5 Challenge from LHL21DCC. 
+**Link to Work:** [Link to the challenge](https://coding-challenge.lighthouselabs.ca/start)
